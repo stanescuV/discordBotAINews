@@ -1,4 +1,4 @@
-#!/usr/bin/env python3 victor
+#!/usr/bin/env python3
 import os, json, time, hashlib
 from pathlib import Path
 import feedparser, requests
